@@ -3,7 +3,7 @@
 
 # Hi there 👋
 
-🔭 I’m currently working at aval digital labs ADL how Lead Data Engineer
+🔭 I’m currently working 
 
 <!--
 **elviejoguille/elviejoguille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
