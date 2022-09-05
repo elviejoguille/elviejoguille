@@ -1,5 +1,6 @@
 
-![coverADL](https://user-images.githubusercontent.com/8499034/167889433-6cf250d1-fd10-4960-af51-4fb0efd39220.png)
+![WhatsApp Image 2022-08-31 at 16 00 33](https://user-images.githubusercontent.com/8499034/188507072-82a56039-b768-4c05-96c0-5eb122322a44.jpeg)
+
 
 # Hi there 👋
 
